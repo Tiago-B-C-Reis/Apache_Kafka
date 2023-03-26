@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Apache_Kafka.iml" filepath="$PROJECT_DIR$/.idea/Apache_Kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kafka_course_basics/kafka-basics/kafka-basics.iml" filepath="$PROJECT_DIR$/Kafka_course_basics/kafka-basics/kafka-basics.iml" group="Apache_Kafka/kafka-connect-wikimedia-main" />
+      <module fileurl="file://$PROJECT_DIR$/Kafka_course_basics/kafka-consumer-opensearch/kafka-consumer-opensearch.iml" filepath="$PROJECT_DIR$/Kafka_course_basics/kafka-consumer-opensearch/kafka-consumer-opensearch.iml" group="Apache_Kafka/kafka-connect-wikimedia-main" />
+      <module fileurl="file://$PROJECT_DIR$/Kafka_course_basics/kafka-producer-wikimedia/kafka-producer-wikimedia.iml" filepath="$PROJECT_DIR$/Kafka_course_basics/kafka-producer-wikimedia/kafka-producer-wikimedia.iml" group="Apache_Kafka/kafka-connect-wikimedia-main" />
+      <module fileurl="file://$PROJECT_DIR$/Kafka_course_basics/kafka-streams-wikimedia/kafka-streams-wikimedia.iml" filepath="$PROJECT_DIR$/Kafka_course_basics/kafka-streams-wikimedia/kafka-streams-wikimedia.iml" group="Apache_Kafka/kafka-connect-wikimedia-main" />
     </modules>
   </component>
 </project>

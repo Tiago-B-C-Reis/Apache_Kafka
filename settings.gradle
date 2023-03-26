@@ -1,0 +1,3 @@
+include 'kafka-connect-wikimedia-main:untitled'
+findProject(':kafka-connect-wikimedia-main:untitled')?.name = 'untitled'
+
